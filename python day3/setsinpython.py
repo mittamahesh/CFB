@@ -1,0 +1,11 @@
+set={1,2,3}
+print(set)
+set.add(4)
+set.add(1)
+set.add(10)
+print("length of the set : ",len(set))
+print(set)
+set.remove(4)
+print("removing 4 from set : ",set)
+print(set.pop())
+print("pop random number:f ",set)
