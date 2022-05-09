@@ -1,0 +1,17 @@
+body{
+    background-color:papayawhip;
+    font-style: inherit;
+}
+.blue{
+    font-style: italic;
+    color:crimson;
+}
+.tab{
+    background-color:grey;
+    padding: 10px;
+}
+.form{
+    background-color:gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 010px;
+}
